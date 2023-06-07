@@ -1,0 +1,25 @@
+# Archivos y carpetas generados por IDEs
+.idea/
+.vscode/
+*.iml
+
+# Archivos compilados
+/target/
+
+# Dependencias de Maven
+/lib/
+/.m2/
+
+# Archivos de configuración de Eclipse
+.classpath
+.project
+.settings/
+
+# Logs
+/logs/
+*.log
+
+# Otros archivos generados
+bin/
+*.class
+.DS_Store
